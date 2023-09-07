@@ -1,1 +1,1 @@
-This is FileB
+This is FileBThis the FileB modification
